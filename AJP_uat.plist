@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://download.apass.vcash.cn/files_uat/ajpapp_ios_uat.ipa</string>
+					<string>http://download.apass.vcash.cn/app3_uat/ajpapp_ios_uat.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://download.apass.vcash.cn/files_uat/image57.png</string>
+					<string>http://download.apass.vcash.cn/app3_uat/image57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://download.apass.vcash.cn/files_uat/image512.png</string>
+					<string>http://download.apass.vcash.cn/app3_uat/image512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
